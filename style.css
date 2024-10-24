@@ -86,3 +86,6 @@ img{
 video{
     border: 10px solid black;
 }
+a span{
+    color: rgb(255, 187, 0);
+}
